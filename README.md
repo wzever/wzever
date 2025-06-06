@@ -1,10 +1,11 @@
 ## Hi there 👋
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
+![](https://img.shields.io/badge/Email-pwz1121@sjtu.edu.cn-blue)
 ![](https://img.shields.io/static/v1?label=wechat&message=Panwz_sjtu&color=7BB32E&logo=wechat)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wzever.wzever)
 ![GitHub followers](https://img.shields.io/github/followers/wzever?label=Follow&style=social)
 
-I'm **Wenzheng Pan** (潘文峥), currently a master student with [Thinklab-SJTU](https://thinklab.sjtu.edu.cn), School of Computer Science & Artificial Intelligence, Shanghai Jiao Tong University. I obtained my B.E. in Computer Science and Technology from SJTU. My recent research interests lie in ***neural combinatorial optimization***, ***generative models***, and ***broader machine learning on graphs***. Contacts welcomed if you have same interests or any questions!
+I'm **Wenzheng Pan** (潘文峥), currently a first-year master student with [Thinklab-SJTU](https://thinklab.sjtu.edu.cn), School of Computer Science & Artificial Intelligence, Shanghai Jiao Tong University. I obtained my B.E. in Computer Science and Technology from SJTU. My recent research interests lie in ***neural combinatorial optimization***, ***generative models***, and ***broader machine learning on graphs***. Contacts welcomed if you have same interests or any questions!
 
 
 <!-- He has published papers on ICLR and ICML as the (co-)first author and served as a reviewer for corresponding conferences..
