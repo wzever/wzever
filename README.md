@@ -18,7 +18,7 @@ I'm **Wenzheng Pan** (潘文峥), currently a first-year master student with [Th
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-## 💻 Open Source Work Stats
+### 💻 Open Source Work Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzever&hide=javascript,html&theme=highcontrast&layout=compact" height=150/>
 </a>
